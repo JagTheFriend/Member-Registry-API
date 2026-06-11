@@ -1,3 +1,6 @@
+[tool.poetry]
+packages = [{ include = "app" }]
+
 [project]
 name = "member-registry-api"
 version = "0.1.0"
