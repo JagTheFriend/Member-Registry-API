@@ -6,7 +6,7 @@ A standalone Member Registry API Service built with FastAPI.
 
 - **CRUD operations** for managing members
 - **Pydantic models** for request/response validation
-- **JSON file persistence** — no database setup required
+- **JSON file persistence** - no database setup required
 - **OpenAPI docs** auto-generated at `/docs`
 
 ## Endpoints
